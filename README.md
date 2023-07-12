@@ -2,8 +2,8 @@
 ### Here are some ideas to get you started:
 ###
 ### - 🌱 I’m currently learning python 
-### - 👯 I’m looking to collaborate on ...
-### - 🤔 I’m looking for help with ...
-### - 💬 Ask me about ...
+### - "The best way to predict the future is to invent it."
+### - "Innovation comes from people meeting up in the hallways or calling each other at 10:30 at night with a new idea."
+### - "Creativity is just connecting things in programming."
 ### - 📫 How to reach me: Have a project idea that you want to share tell me on mail: akshsaraf007@gmail.com
 ### - 😄 Pronouns: he/him
