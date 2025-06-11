@@ -1,5 +1,5 @@
 <h1 align="center">Hi There </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 
 [![Spotify](https://img.shields.io/badge/Currently%20Listening-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS)
