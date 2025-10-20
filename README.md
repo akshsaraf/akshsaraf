@@ -28,12 +28,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,mongodb,mysql,html,css,bootstrap,git,figma,firebase,opencv,tensorflow" />
 </p>
-
-
----
-
-### 🏆 Extra Flair
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshsaraf&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=akshsaraf&theme=tokyonight&no-frame=true&row=1&column=6" height="100"/>
-</p>
